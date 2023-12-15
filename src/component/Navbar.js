@@ -21,6 +21,7 @@ class Navbar extends Component {
               <i className={item.icon}></i>{item.title}
             </a>
           </li>
+          
                 );
             })}
           <button>Sign Up</button>
