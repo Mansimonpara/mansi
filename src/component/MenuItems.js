@@ -1,28 +1,28 @@
 export const MenuItems = [
     {
         title:"Home",
-        ur :"/",
+        url :"/",
         cName : "nav-links",
         icon : "fa-solid fa-house-user"
     },
 
     {
         title:"About",
-        ur :"/about",
+        url :"/about",
         cName : "nav-links",
         icon : "fa-solid fa-circle-info"
     },
 
     {
         title:"Service",
-        ur :"/service",
+        url :"/service",
         cName : "nav-links",
         icon : "fa-solid fa-briefcase"
     },
 
     {
         title:"Contact",
-        ur :"/contact",
+        url :"/contact",
         cName : "nav-links",
         icon : "fa-solid fa-address-book"
     },
