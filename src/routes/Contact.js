@@ -1,6 +1,7 @@
 import Hero from "../component/Hero";
 import Navbar from "../component/Navbar";
-
+import Footer from "../component/Footer";
+import ContactForm from "../component/ContactForm";
 
 function Contact (){
     return(
@@ -10,11 +11,11 @@ function Contact (){
         cName="hero-mid"
         heroImg="./assets/2.jpg"
         title="Contact"
-        
-        
         btnClass="hide"
 
         />
+        <ContactForm/>
+        <Footer/>
         
         </>
     
